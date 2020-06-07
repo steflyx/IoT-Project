@@ -1,0 +1,195 @@
+In this version a mote sends a notification if it's close to another mote and if its id is bigger than the other's
+
+00:04.327	ID:2	~EdNode 2: active.
+00:04.439	ID:4	~EdNode 4: active.
+00:04.473	ID:1	~EdNode 1: active.
+00:04.806	ID:5	~EdNode 5: active.
+00:04.827	ID:2	r~~EdNode 2: message broadcasted.<~~Ed
+00:04.939	ID:4	<~~EdNode 4: message broadcasted.'F~~Ed
+00:04.971	ID:1	~~EdNode 1: message broadcasted.!~~Ed
+00:04.990	ID:3	~EdNode 3: active.
+00:05.308	ID:5	Y~~EdNode 5: message broadcasted.,#~~Ed
+00:05.309	ID:2	y~~EdNode 2: message broadcasted.<~~Ed
+00:05.430	ID:4	y~~EdNode 4: message broadcasted.'F~~Ed
+00:05.458	ID:1	y~~EdNode 1: message broadcasted.!~~Ed
+00:05.488	ID:3	~~EdNode 3: message broadcasted.7m~~Ed
+00:05.794	ID:5	y~~EdNode 5: message broadcasted.,#~~Ed
+00:05.801	ID:2	y~~EdNode 2: message broadcasted.<~~Ed
+00:05.914	ID:4	y~~EdNode 4: message broadcasted.'F~~Ed
+00:05.944	ID:1	y~~EdNode 1: message broadcasted.!~~Ed
+00:05.979	ID:3	y~~EdNode 3: message broadcasted.7m~~Ed
+00:06.284	ID:5	y~~EdNode 5: message broadcasted.,#~~Ed
+00:06.287	ID:2	y~~EdNode 2: message broadcasted.<~~Ed
+00:06.400	ID:4	y~~EdNode 4: message broadcasted.'F~~Ed
+00:06.433	ID:1	y~~EdNode 1: message broadcasted.!~~Ed
+00:06.462	ID:3	y~~EdNode 3: message broadcasted.7m~~Ed
+00:06.767	ID:5	y~~EdNode 5: message broadcasted.,#~~Ed
+00:06.782	ID:2	y~~EdNode 2: message broadcasted.<~~Ed
+00:06.891	ID:4	y~~EdNode 4: message broadcasted.'F~~Ed
+00:06.926	ID:1	y~~EdNode 1: message broadcasted.!~~Ed
+00:06.951	ID:3	y~~EdNode 3: message broadcasted.7m~~Ed
+00:07.259	ID:5	y~~EdNode 5: message broadcasted.,#~~Ed
+00:07.264	ID:2	y~~EdNode 2: message broadcasted.<~~Ed
+00:07.381	ID:4	y~~EdNode 4: message broadcasted.'F~~Ed
+00:07.384	ID:1	y~~EdNode 1: message received fro]~~Edm node 4.
+00:07.417	ID:1	~~EdNode 1: message broadcasted.!~~Ed
+00:07.422	ID:4	y~~EdNode 4: message received fro[~~Edm node 1.
+00:07.426	ID:4	Node 4: sending a /~~Edmessage to Node-Red
+00:07.430	ID:4	{sender_~~Edid: 1, node_id:4}]
+00:07.441	ID:3	y~~EdNode 3: message broadcasted.7m~~Ed
+00:07.751	ID:5	y~~EdNode 5: message broadcasted.,#~~Ed
+00:07.755	ID:2	y~~EdNode 2: message broadcasted.<~~Ed
+00:07.872	ID:4	2]~~EdNode 4: message broadcasted.'F~~Ed
+00:07.874	ID:1	y~~EdNode 1: message received fro]~~Edm node 4.
+00:07.901	ID:1	~~EdNode 1: message broadcasted.!~~Ed
+00:07.904	ID:4	y~~EdNode 4: message received fro[~~Edm node 1.
+00:07.930	ID:3	y~~EdNode 3: message broadcasted.7m~~Ed
+00:08.235	ID:5	y~~EdNode 5: message broadcasted.,#~~Ed
+00:08.246	ID:2	y~~EdNode 2: message broadcasted.<~~Ed
+00:08.354	ID:4	Tc~~EdNode 4: message broadcasted.'F~~Ed
+00:08.356	ID:1	y~~EdNode 1: message received fro]~~Edm node 4.
+00:08.390	ID:1	~~EdNode 1: message broadcasted.!~~Ed
+00:08.392	ID:4	y~~EdNode 4: message received fro[~~Edm node 1.
+00:08.414	ID:3	y~~EdNode 3: message broadcasted.7m~~Ed
+00:08.723	ID:5	y~~EdNode 5: message broadcasted.,#~~Ed
+00:08.728	ID:2	y~~EdNode 2: message broadcasted.<~~Ed
+00:08.841	ID:4	Tc~~EdNode 4: message broadcasted.'F~~Ed
+00:08.843	ID:1	y~~EdNode 1: message received fro]~~Edm node 4.
+00:08.874	ID:1	~~EdNode 1: message broadcasted.!~~Ed
+00:08.876	ID:4	y~~EdNode 4: message received fro[~~Edm node 1.
+00:08.902	ID:3	y~~EdNode 3: message broadcasted.7m~~Ed
+00:09.213	ID:5	y~~EdNode 5: message broadcasted.,#~~Ed
+00:09.222	ID:2	y~~EdNode 2: message broadcasted.<~~Ed
+00:09.335	ID:4	Tc~~EdNode 4: message broadcasted.'F~~Ed
+00:09.337	ID:1	y~~EdNode 1: message received fro]~~Edm node 4.
+00:09.362	ID:1	~~EdNode 1: message broadcasted.!~~Ed
+00:09.365	ID:4	y~~EdNode 4: message received fro[~~Edm node 1.
+00:09.391	ID:3	y~~EdNode 3: message broadcasted.7m~~Ed
+00:09.697	ID:5	y~~EdNode 5: message broadcasted.,#~~Ed
+00:09.710	ID:2	y~~EdNode 2: message broadcasted.<~~Ed
+00:09.818	ID:4	Tc~~EdNode 4: message broadcasted.'F~~Ed
+00:09.820	ID:1	y~~EdNode 1: message received fro]~~Edm node 4.
+00:09.856	ID:1	~~EdNode 1: message broadcasted.!~~Ed
+00:09.858	ID:4	y~~EdNode 4: message received fro[~~Edm node 1.
+00:09.881	ID:3	y~~EdNode 3: message broadcasted.7m~~Ed
+00:10.192	ID:5	y~~EdNode 5: message broadcasted.,#~~Ed
+00:10.195	ID:2	y~~EdNode 2: message received fro@R~~Edm node 5.
+00:10.199	ID:2	Node 2: message br~~Edoadcasted.
+00:10.204	ID:5	y~~EdNode 5: message received froPy~~Edm node 2.
+00:10.209	ID:5	Node 5: sending a w~~Edmessage to Node-Red
+00:10.213	ID:5	{sender_~~Edid: 2, node_id:5}]
+00:10.311	ID:4	Tc~~EdNode 4: message broadcasted.'F~~Ed
+00:10.313	ID:1	y~~EdNode 1: message received fro]~~Edm node 4.
+00:10.344	ID:1	~~EdNode 1: message broadcasted.!~~Ed
+00:10.346	ID:4	y~~EdNode 4: message received fro[~~Edm node 1.
+00:10.369	ID:3	y~~EdNode 3: message broadcasted.7m~~Ed
+00:10.676	ID:5	TA~~EdNode 5: message broadcasted.,#~~Ed
+00:10.679	ID:2	f~~EdNode 2: message received fro@R~~Edm node 5.
+00:10.691	ID:2	~~EdNode 2: message broadcasted.<~~Ed
+00:10.693	ID:5	y~~EdNode 5: message received froPy~~Edm node 2.
+00:10.798	ID:4	Tc~~EdNode 4: message broadcasted.'F~~Ed
+00:10.800	ID:1	y~~EdNode 1: message received fro]~~Edm node 4.
+00:10.832	ID:1	~~EdNode 1: message broadcasted.!~~Ed
+00:10.834	ID:4	y~~EdNode 4: message received fro[~~Edm node 1.
+00:10.858	ID:3	y~~EdNode 3: message broadcasted.7m~~Ed
+00:11.168	ID:5	o~~EdNode 5: message broadcasted.,#~~Ed
+00:11.170	ID:2	y~~EdNode 2: message received fro@R~~Edm node 5.
+00:11.179	ID:2	~~EdNode 2: message broadcasted.<~~Ed
+00:11.179	ID:5	y~~EdNode 5: message received froPy~~Edm node 2.
+00:11.283	ID:4	Tc~~EdNode 4: message broadcasted.'F~~Ed
+00:11.285	ID:1	y~~EdNode 1: message received fro]~~Edm node 4.
+00:11.322	ID:1	~~EdNode 1: message broadcasted.!~~Ed
+00:11.324	ID:4	y~~EdNode 4: message received fro[~~Edm node 1.
+00:11.346	ID:3	y~~EdNode 3: message broadcasted.7m~~Ed
+00:11.652	ID:5	o~~EdNode 5: message broadcasted.,#~~Ed
+00:11.657	ID:2	y~~EdNode 2: message received fro@R~~Edm node 5.
+00:11.661	ID:2	Node 2: message br~~Edoadcasted.
+00:11.663	ID:5	y~~EdNode 5: message received froPy~~Edm node 2.
+00:11.775	ID:4	Tc~~EdNode 4: message broadcasted.'F~~Ed
+00:11.777	ID:1	y~~EdNode 1: message received fro]~~Edm node 4.
+00:11.811	ID:1	~~EdNode 1: message broadcasted.!~~Ed
+00:11.813	ID:4	y~~EdNode 4: message received fro[~~Edm node 1.
+00:11.833	ID:3	y~~EdNode 3: message broadcasted.7m~~Ed
+00:12.138	ID:5	o~~EdNode 5: message broadcasted.,#~~Ed
+00:12.142	ID:2	f~~EdNode 2: message received fro@R~~Edm node 5.
+00:12.156	ID:2	~~EdNode 2: message broadcasted.<~~Ed
+00:12.158	ID:5	y~~EdNode 5: message received froPy~~Edm node 2.
+00:12.265	ID:4	Tc~~EdNode 4: message broadcasted.'F~~Ed
+00:12.267	ID:1	y~~EdNode 1: message received fro]~~Edm node 4.
+00:12.294	ID:1	~~EdNode 1: message broadcasted.!~~Ed
+00:12.296	ID:4	y~~EdNode 4: message received fro[~~Edm node 1.
+00:12.324	ID:3	y~~EdNode 3: message broadcasted.7m~~Ed
+00:12.629	ID:5	o~~EdNode 5: message broadcasted.,#~~Ed
+00:12.633	ID:2	y~~EdNode 2: message received fro@R~~Edm node 5.
+00:12.641	ID:5	y~~EdNode 5: message received froPy~~Edm node 2.
+00:12.641	ID:2	~~EdNode 2: message broadcasted.<~~Ed
+00:12.749	ID:4	Tc~~EdNode 4: message broadcasted.'F~~Ed
+00:12.751	ID:1	y~~EdNode 1: message received fro]~~Edm node 4.
+00:12.782	ID:1	~~EdNode 1: message broadcasted.!~~Ed
+00:12.784	ID:4	y~~EdNode 4: message received fro[~~Edm node 1.
+00:12.814	ID:3	y~~EdNode 3: message broadcasted.7m~~Ed
+00:13.117	ID:5	o~~EdNode 5: message broadcasted.,#~~Ed
+00:13.122	ID:2	y~~EdNode 2: message received fro@R~~Edm node 5.
+00:13.126	ID:2	Node 2: message br~~Edoadcasted.
+00:13.128	ID:5	y~~EdNode 5: message received froPy~~Edm node 2.
+00:13.236	ID:4	Tc~~EdNode 4: message broadcasted.'F~~Ed
+00:13.238	ID:1	y~~EdNode 1: message received fro]~~Edm node 4.
+00:13.272	ID:1	~~EdNode 1: message broadcasted.!~~Ed
+00:13.274	ID:4	y~~EdNode 4: message received fro[~~Edm node 1.
+00:13.302	ID:3	y~~EdNode 3: message broadcasted.7m~~Ed
+00:13.610	ID:5	o~~EdNode 5: message broadcasted.,#~~Ed
+00:13.613	ID:3	y~~EdNode 3: message received froK7~~Edm node 5.
+00:13.614	ID:2	f~~EdNode 2: message received fro@R~~Edm node 5.
+00:13.621	ID:2	~~EdNode 2: message broadcasted.<~~Ed
+00:13.621	ID:5	y~~EdNode 5: message received froPy~~Edm node 2.
+00:13.625	ID:3	~~EdNode 3: message received froK7~~Edm node 2.
+00:13.630	ID:3	Node 3: sending a *~~Edmessage to Node-Red
+00:13.633	ID:3	{sender_~~Edid: 2, node_id:3}]
+00:13.726	ID:4	Tc~~EdNode 4: message broadcasted.'F~~Ed
+00:13.728	ID:1	y~~EdNode 1: message received fro]~~Edm node 4.
+00:13.762	ID:1	~~EdNode 1: message broadcasted.!~~Ed
+00:13.764	ID:4	y~~EdNode 4: message received fro[~~Edm node 1.
+00:13.790	ID:3	?~~EdNode 3: message broadcasted.7m~~Ed
+00:13.792	ID:2	y~~EdNode 2: message received fro@R~~Edm node 3.
+00:13.794	ID:5	o~~EdNode 5: message received froPy~~Edm node 3.
+00:13.799	ID:5	Node 5: sending a p~~Edmessage to Node-Red
+00:13.803	ID:5	{sender_~~Edid: 3, node_id:5}]
+00:14.094	ID:5	Wv~~EdNode 5: message broadcasted.,#~~Ed
+00:14.096	ID:3	y~~EdNode 3: message received froK7~~Edm node 5.
+00:14.097	ID:2	~~EdNode 2: message received fro@R~~Edm node 5.
+00:14.106	ID:2	~~EdNode 2: message broadcasted.<~~Ed
+00:14.108	ID:5	y~~EdNode 5: message received froPy~~Edm node 2.
+00:14.108	ID:3	~~EdNode 3: message received froK7~~Edm node 2.
+00:14.214	ID:4	Tc~~EdNode 4: message broadcasted.'F~~Ed
+00:14.216	ID:1	y~~EdNode 1: message received fro]~~Edm node 4.
+00:14.245	ID:1	~~EdNode 1: message broadcasted.!~~Ed
+00:14.247	ID:4	y~~EdNode 4: message received fro[~~Edm node 1.
+00:14.281	ID:3	o~~EdNode 3: message broadcasted.7m~~Ed
+00:14.283	ID:5	o~~EdNode 5: message received froPy~~Edm node 3.
+00:14.283	ID:2	y~~EdNode 2: message received fro@R~~Edm node 3.
+00:14.589	ID:5	~~EdNode 5: message broadcasted.,#~~Ed
+00:14.590	ID:2	~~EdNode 2: message received fro@R~~Edm node 5.
+00:14.591	ID:3	y~~EdNode 3: message received froK7~~Edm node 5.
+00:14.593	ID:5	Node 5: message received fr}^~~Edom node 2.
+00:14.594	ID:2	Node 2: message br~~Edoadcasted.
+00:14.595	ID:3	Node 3: message re~~Edceived from node 2.
+00:14.705	ID:4	Tc~~EdNode 4: message broadcasted.'F~~Ed
+00:14.707	ID:1	y~~EdNode 1: message received fro]~~Edm node 4.
+00:14.735	ID:1	~~EdNode 1: message broadcasted.!~~Ed
+00:14.737	ID:4	y~~EdNode 4: message received fro[~~Edm node 1.
+00:14.769	ID:3	5~~EdNode 3: message broadcasted.7m~~Ed
+00:14.771	ID:2	f~~EdNode 2: message received fro@R~~Edm node 3.
+00:14.771	ID:5	~~EdNode 5: message received froPy~~Edm node 3.
+00:15.070	ID:5	~~EdNode 5: message broadcasted.,#~~Ed
+00:15.072	ID:3	y~~EdNode 3: message received froK7~~Edm node 5.
+00:15.073	ID:2	~~EdNode 2: message received fro@R~~Edm node 5.
+00:15.082	ID:2	~~EdNode 2: message broadcasted.<~~Ed
+00:15.084	ID:3	~~EdNode 3: message received froK7~~Edm node 2.
+00:15.084	ID:5	y~~EdNode 5: message received froPy~~Edm node 2.
+00:15.195	ID:4	Tc~~EdNode 4: message broadcasted.'F~~Ed
+00:15.197	ID:1	y~~EdNode 1: message received fro]~~Edm node 4.
+00:15.222	ID:1	~~EdNode 1: message broadcasted.!~~Ed
+00:15.224	ID:4	y~~EdNode 4: message received fro[~~Edm node 1.
+00:15.255	ID:3	o~~EdNode 3: message broadcasted.7m~~Ed
+00:15.257	ID:2	y~~EdNode 2: message received fro@R~~Edm node 3.
+00:15.257	ID:5	o~~EdNode 5: message received froPy~~Edm node 3.
